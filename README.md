@@ -11,3 +11,6 @@ PATCH request
 
 DELETE request 
 * /DELETE/api/v1/users/:id deletes a user by ID
+
+Hosted Link
+URL:http://crud-zuri.herokuapp.com/api/v1/users
